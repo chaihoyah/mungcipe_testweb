@@ -1,0 +1,12 @@
+export {default as InRecipeMain} from './InRecipeMain';
+export {default as InRecipeMain1} from './InRecipeMain1';
+export {default as InRecipeMain2} from './InRecipeMain2';
+export {default as InRecipeMain3} from './InRecipeMain3';
+export {default as InRecipeMain4} from './InRecipeMain4';
+export {default as InRecipeMain5} from './InRecipeMain5';
+export {default as InRecipeMain6} from './InRecipeMain6';
+export {default as InRecipeMain7} from './InRecipeMain7';
+export {default as InRecipeMain8} from './InRecipeMain8';
+export {default as InRecipeMain9} from './InRecipeMain9';
+export {default as InRecipeMain10} from './InRecipeMain10';
+export {default as InRecipeMain11} from './InRecipeMain11';
